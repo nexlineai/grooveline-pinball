@@ -1,0 +1,8 @@
+.DS_Store
+build/
+DerivedData/
+xcuserdata/
+*.ipa
+.env
+.claude/
+node_modules/
